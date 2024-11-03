@@ -3,7 +3,7 @@
     "paths": {
       "@/*": ["./src/*"]
     },
-    "noUnusedLocals": false, // 不要な変数のエラーを無効にする
+    "noUnusedLocals": false, // 不要な変数のエラーを無効にする　
     "noUnusedParameters": false, // 未使用のパラメータに対するエラーを無効にする
     "skipLibCheck": true // 型定義ファイルのチェックをスキップ
   },
